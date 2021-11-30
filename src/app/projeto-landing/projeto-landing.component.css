@@ -31,7 +31,46 @@
 
 }
 
-.ml-17{
-  margin-left: 17vw;
+.ml-13{
+  margin-left: 13rem;
+}
+
+.ml-8{
+  margin-left: 8rem;
+}
+
+.ml-7{
+  margin-left: 8rem;
+}
+
+.mt-6{
+  margin-top: 6rem;
+}
+
+.bg-orange{
+  background-color: #df8601;
+}
+
+.alinhamento{
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.mb-10{
+  margin-bottom: 10rem;
+}
+
+.fs-46{
+  font-weight: 700;
+  font-size: 26pt;
+}
+
+.pt{
+  padding-top: 5rem;
+}
+
+.img-ods{
+  margin-top: -1rem;
 }
 
