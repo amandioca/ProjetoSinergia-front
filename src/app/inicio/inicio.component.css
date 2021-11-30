@@ -176,3 +176,8 @@ a{
     cursor: pointer;
     text-decoration: none;
 }
+
+.fade {
+    transition: opacity -0.85s linear;
+    background-color: #000000be;
+}
